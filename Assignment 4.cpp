@@ -80,4 +80,4 @@ int main()
     delete[] array;
     delete[] newArray;
     return 0;
-}
+} 
