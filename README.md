@@ -1,4 +1,4 @@
-#Second Semester OOP Codes
+# Second Semester OOP Codes
 
 This repo contains my second semester Object Oriented Programming (OOP) assignment at GIKI, taught by Dr. Zahid Halim. Here you'll find a collection of code, which I have collaborated on with my group partner, Syed Abdul Rehman Hasan, to solve C++ assignment.
 
